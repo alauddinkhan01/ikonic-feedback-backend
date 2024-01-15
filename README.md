@@ -30,7 +30,7 @@ Migrate database (Note: connect your project with database first then run the fo
 ```bash
 php artisan migrate
 ```
-Run the project
+Run server
 
 ```bash
 php artisan serve
